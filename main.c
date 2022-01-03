@@ -237,7 +237,7 @@ void mostrar(agenda diario[MAX]){
 
 		//printf("DNI: %l\n", diario[i].dni);
 		//printf("E-mail: %d\n", diario[i].email);
-		//printf("Dirección: %s\n", diario[i].direccion);
+		//printf("DirecciÃ³n: %s\n", diario[i].direccion);
 		//printf("Edad: %s\n", diario[i].edad);
 		//printf("Estado: %s\n", diario[i].estado);
 	}
@@ -335,7 +335,7 @@ void grafico(agenda diario[20])
         printf("\n");
     }
 
-    printf("   <18    19<35    35<\n\n");
+    printf("   <18    19<35    35>\n\n");
     system("pause");
     system("cls");
 
