@@ -264,8 +264,8 @@ void mostrarActivos(agenda diario[20]){
         }
 
     }
-        //system("pause");
-        //system("cls");
+        system("pause");
+        system("cls");
 }
 void grafico(agenda diario[20])
 {
