@@ -9,7 +9,7 @@
 
 
 struct agenda{
-    char nombre [50][50] ;
+    char nombre [50];
     long int dni ;
     char email[25];
     char direccion [20];
