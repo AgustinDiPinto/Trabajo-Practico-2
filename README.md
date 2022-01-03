@@ -1,6 +1,6 @@
 # Trabajo-Practico-2
 
-Calculadora
+***Agenda con estructura***
 
 *Integrantes: 
 -Eliana Arias
